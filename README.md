@@ -8,3 +8,4 @@ ne pas enregistrer des graphiques mais les regénérer à chaque fois
 
 
 Première etape, il faut faire un clone en copiant le lien git clone http
+ensuite il faut cd python2A puis glisser le fichier
